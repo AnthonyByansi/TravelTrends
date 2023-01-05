@@ -9,10 +9,10 @@ Data on various aspects of the travel industry, including destinations, travel m
 Machine learning libraries, such as scikit-learn or TensorFlow.
 Visualization tools, such as Matplotlib or Seaborn.
 ## Installing
-Clone the repository to your local machine: git clone https://github.com/AnthonyByansi/TravelTrends.git
-pip install `-r requirements.txt`
-Run the machine learning algorithms to identify patterns and trends in the data `python main.py`
-Visualize the results using the provided visualization tools.
+* Clone the repository to your local machine: git clone https://github.com/AnthonyByansi/TravelTrends.git
+* Install the required libraries: `pip install -r requirements.txt`
+* Run the machine learning algorithms to identify patterns and trends in the data `python main.py`
+* Visualize the results using the provided visualization tools.
 
 ## Usage
 The system can be used to inform decisions and strategies within the travel industry, such as targeting specific destinations or travel modes. It can also be used to make predictions about future trends in the travel industry.
