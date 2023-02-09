@@ -15,7 +15,7 @@ Visualization tools, such as Matplotlib or Seaborn.
 * Visualize the results using the provided visualization tools.
 
 ## Usage
-            The system can be used to inform decisions and strategies within the travel industry, such as targeting specific destinations or travel modes. It can also be used to make predictions about future trends in the travel industry.
+The system can be used to inform decisions and strategies within the travel industry, such as targeting specific destinations or travel modes. It can also be used to make predictions about future trends in the travel industry.
 
 ## Contributing
 We welcome contributions to this project. If you have ideas for improvements or new features, please open an issue or submit a pull request.
