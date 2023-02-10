@@ -24,3 +24,5 @@ We welcome contributions to this project. If you have ideas for improvements or 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
+## Acknoweledgement 
+Thanks to the data science Chronicals for making this project a success
